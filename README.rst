@@ -19,7 +19,7 @@ Installation
 Usage
 -----
 
-.. image:: screenshot.png
+.. image:: https://github.com/jasonkeene/pandasay/raw/master/screenshot.png
 
 Troubleshooting/Tips
 --------------------
